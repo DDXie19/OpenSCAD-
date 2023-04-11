@@ -1,5 +1,5 @@
 # OpenSCAD-Seasons
-# 用OpenSCAD思辨：妙用数学建模思维
+# 使OpenSCAD韵动：模拟动态模型变化
 
 曾用名：
 斗转星移见时节，编程建模见智慧
